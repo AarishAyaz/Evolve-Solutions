@@ -43,7 +43,7 @@ const Vision = () => {
       <div className="max-w-6xl mx-auto relative z-10">
 
         <div className="flex flex-col items-center mb-16">
-          <h2 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 mb-4 text-center">
+          <h2 className="text-5xl font-bold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 mb-4 text-center">
             Transforming ideas into digital reality!
           </h2>
           
